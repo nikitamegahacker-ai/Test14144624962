@@ -1,0 +1,20 @@
+newmtl Su47Berkut
+Ka 0 0 0
+Kd 1.0000 1.0000 1.0000
+Ks 0.2 0.2 0.2
+Ns 50
+d 1
+illum 2
+map_Kd textures/Su47Berkut_A.png
+map_Bump -bm 1 textures/Su47Berkut_N.png
+map_Ks textures/Su47Berkut_MGC.png
+
+newmtl Glass
+Ka 0 0 0
+Kd 0.0000 0.0000 0.0000
+Ks 0.6 0.6 0.6
+Ns 400
+d 0.45
+Tr 0.55
+illum 2
+
